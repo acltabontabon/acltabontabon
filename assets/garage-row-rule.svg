@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="16" viewBox="0 0 1280 16" aria-hidden="true">
+<defs><linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="64" y1="8" x2="1216" y2="8"><stop stop-color="#a5926c" stop-opacity="0"/><stop offset=".5" stop-color="#a5926c" stop-opacity=".3"/><stop offset="1" stop-color="#a5926c" stop-opacity="0"/></linearGradient></defs>
+<path d="M64 8h1152" fill="none" stroke="url(#rule)" stroke-width="1"/>
+</svg>

@@ -24,7 +24,7 @@ Using AI to turn everyday problems into useful tools.
 <img src="assets/project-rule.svg" alt="" width="2%">
 <a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="30%"></picture></a>
 
-<br><br>
+<img src="assets/garage-row-rule.svg" alt="" width="94%">
 
 <a href="https://github.com/acltabontabon/cruce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-cruce-dark.svg"><img src="assets/garage-cruce-light.svg" alt="Cruce — Parallel agent work. One Git history." width="30%"></picture></a>
 <img src="assets/project-rule.svg" alt="" width="2%">

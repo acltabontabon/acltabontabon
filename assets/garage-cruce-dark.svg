@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="174" viewBox="0 0 400 174" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 18 400 140" role="img" aria-labelledby="title">
 <title id="title">Cruce — Parallel agent work. One Git history.</title>
 <g fill="none" stroke="#c2ac82" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="29" cy="39" r="7"/><circle cx="29" cy="106" r="7"/><circle cx="85" cy="72" r="7"/><path d="M36 39h10q12 0 12 12v9q0 12 12 12h8M36 106h10q12 0 12-12v-9q0-13 12-13"/></g>
 <text x="112" y="63" fill="#ece9e1" font-family="Georgia, Times New Roman, serif" font-size="32" letter-spacing="-.7">Cruce</text>

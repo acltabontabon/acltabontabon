@@ -50,7 +50,7 @@ and surviving another deployment.<br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-off-clock-dark.svg"><img src="assets/label-off-clock-light.svg" alt="Off the clock" width="220" height="24"></picture>
 
 When I'm not debugging software, I'm debugging my gameplay.<br>
-<sub>[Steam ↗](https://steamcommunity.com/id/acltabontabon/)</sub>
+<a href="https://steamcommunity.com/id/acltabontabon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/steam-link-dark.svg"><img src="assets/steam-link-light.svg" alt="Steam profile" width="66" height="24"></picture></a>
 
 </div>
 

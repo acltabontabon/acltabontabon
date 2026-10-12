@@ -1,49 +1,39 @@
-<p align="center">
-  <img src="assets/act-header.svg" alt="ACT — Backend systems. Open-source tools." width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  I build backend services for a living and open-source tools for the work around them.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/act-mark-light.svg">
+  <img src="assets/act-mark-dark.svg" alt="act. — a custom wordmark with a forward arrow in the t and a gold full stop" width="160" height="80">
+</picture>
 
-<p align="center">
-  <a href="https://acltabontabon.com"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://acltabontabon.com/garage"><b>All projects</b></a> &nbsp;·&nbsp;
-  <a href="https://acltabontabon.com/blog">Writing</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/acltabontabon">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:me@acltabontabon.com">Say hello</a>
-</p>
+### Backend systems. Open-source tools.
+
+Java & Spring Boot for a living. Developer tools for the work around them.
+
+[Website](https://acltabontabon.com) · [Writing](https://acltabontabon.com/blog) · [LinkedIn](https://linkedin.com/in/acltabontabon) · [Say hello](mailto:me@acltabontabon.com)
+
+</div>
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://acltabontabon.com/draft-canvas/"><img src="assets/draft-canvas.svg" alt="Draft Canvas: draw software and explain how it works. Local-first web and desktop app." width="100%"></a>
-      <p>Sketch systems, explore the details, and walk through the flow.</p>
-      <a href="https://acltabontabon.com/draft-canvas/editor/"><b>Try it →</b></a> &nbsp;·&nbsp; <a href="https://github.com/acltabontabon/draft-canvas">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://acltabontabon.com/habi/"><img src="assets/habi.svg" alt="Habi: find the right skills for your coding agent. Preview, install and share." width="100%"></a>
-      <p>See which skills fit your repo and review changes before installing.</p>
-      <a href="https://acltabontabon.com/habi/"><b>Explore →</b></a> &nbsp;·&nbsp; <a href="https://github.com/acltabontabon/habi">Source</a>
-    </td>
-  </tr>
-</table>
+**[Draft Canvas ↗](https://acltabontabon.com/draft-canvas/editor/)** — Draw software. Explain how it works.<br>
+**[Habi ↗](https://acltabontabon.com/habi/)** — Find the right skills for your coding agent.
 
-<p align="center">
-  Also building <a href="https://github.com/acltabontabon/vortex"><b>Vortex</b></a> for performance testing and <a href="https://github.com/acltabontabon/Katha"><b>Katha</b></a> for stories from your dev activity.
-</p>
+[More from the Garage →](https://acltabontabon.com/garage) · [Vortex](https://github.com/acltabontabon/vortex) · [Katha](https://github.com/acltabontabon/Katha)
 
-<a href="https://github.com/acltabontabon?tab=repositories"><img src="assets/activity.svg" alt="ACT GitHub stats: public contributions, repositories, stars and primary languages. Refreshed daily." width="100%"></a>
+<br>
 
-### Install on macOS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity.svg" alt="Public GitHub contributions, repositories, stars and primary languages. Updated daily." width="100%">
+</picture>
 
-Two apps. [One Homebrew tap.](https://github.com/acltabontabon/homebrew-tap)
+<br>
+
+**Take them for a spin.** [My Homebrew tap →](https://github.com/acltabontabon/homebrew-tap)
 
 ```sh
 brew install --cask acltabontabon/tap/draft-canvas
 brew install --cask acltabontabon/tap/habi
 ```
 
-<sub>[First launch & updates](https://github.com/acltabontabon/homebrew-tap#readme) · Fueled by noodles. Steam time estimates remain unreliable.</sub>
+<sub>[First launch & updates](https://github.com/acltabontabon/homebrew-tap#readme) · Software & side quests. Fueled by noodles.</sub>

@@ -53,7 +53,7 @@ def collect():
     }
 
 
-def render(data):
+def render(data, dark=False):
     esc = html.escape
     out = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="216" viewBox="0 0 1280 216" role="img" aria-labelledby="title desc">',
@@ -61,7 +61,6 @@ def render(data):
         f'<desc id="desc">{data["contributions"]:,} contributions in the last year, '
         f'{data["repositories"]} public repositories, {data["stars"]} stars on owned '
         f'original repositories. Public GitHub snapshot: {esc(data["date"])}.</desc>',
-        '<rect width="1280" height="216" rx="12" fill="#171816"/>',
         '<g font-family="Arial, Helvetica, sans-serif">',
         '<text x="40" y="33" fill="#c2ac82" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="19">From the workshop.</text>',
         f'<text x="1240" y="33" text-anchor="end" fill="#909187" font-size="12">GitHub · {esc(data["date"])}</text>',
@@ -90,12 +89,17 @@ def render(data):
         out.append(f'<text x="{x + 16}" y="199" fill="#b1b1a7" font-size="14">{esc(name)} · {count}</text>')
         x += 240
     out.append("</g></svg>\n")
-    return "\n".join(out)
+    svg = "\n".join(out)
+    if not dark:
+        for old, new in [("#ece9e1", "#262821"), ("#c2ac82", "#75603b"), ("#b1b1a7", "#62635b"), ("#909187", "#73746b")]:
+            svg = svg.replace(old, new)
+    return svg
 
 
 if __name__ == "__main__":
     data = collect()
     svg = render(data)
     (ROOT / "assets" / "activity.svg").write_text(svg)
+    (ROOT / "assets" / "activity-dark.svg").write_text(render(data, dark=True))
     (ROOT / "assets" / "github-stats.json").write_text(json.dumps(data, indent=2) + "\n")
     print(f"Rendered public GitHub stats for {USER} ({data['date']}).")

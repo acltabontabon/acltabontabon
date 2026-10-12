@@ -7,7 +7,12 @@
 
 ### Backend systems. Open-source tools.
 
-Java & Spring Boot for a living. Developer tools for the work around them.
+Mostly backend. Happiest with **Java, Spring Boot, AWS, and Kubernetes**.
+
+Lately, I’m using AI to build tools for my own problems and the ones we share.<br>
+Less busywork. More time for things that matter.
+
+<sub>Exploring Cloudflare, too.</sub>
 
 [Website](https://acltabontabon.com) · [Writing](https://acltabontabon.com/blog) · [LinkedIn](https://linkedin.com/in/acltabontabon) · [Say hello](mailto:me@acltabontabon.com)
 
@@ -15,10 +20,14 @@ Java & Spring Boot for a living. Developer tools for the work around them.
 
 <br>
 
-**[Draft Canvas ↗](https://acltabontabon.com/draft-canvas/editor/)** — Draw software. Explain how it works.<br>
-**[Habi ↗](https://acltabontabon.com/habi/)** — Find the right skills for your coding agent.
+<div align="center">
 
-[More from the Garage →](https://acltabontabon.com/garage) · [Vortex](https://github.com/acltabontabon/vortex) · [Katha](https://github.com/acltabontabon/Katha)
+<a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-draft-dark.svg"><img src="assets/project-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="47%"></picture></a>
+<a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-habi-dark.svg"><img src="assets/project-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="47%"></picture></a>
+
+<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
+
+</div>
 
 <br>
 

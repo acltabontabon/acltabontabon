@@ -8,7 +8,7 @@
 ### Backend systems. Open-source tools.
 
 Happiest designing software architecture.<br>
-Using AI to turn everyday problems into useful tools.
+Building useful tools with AI. Occasionally, ridiculous games.
 
 <sub>Java &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; AWS &nbsp; · &nbsp; Kubernetes</sub>
 

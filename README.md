@@ -18,31 +18,25 @@ Less busywork. More time for things that matter.
 
 </div>
 
-<br>
+<p align="center"><img src="assets/section-rule.svg" alt="" width="100%"></p>
 
 <div align="center">
 
 <a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-draft-dark.svg"><img src="assets/project-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="47%"></picture></a>
 <a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-habi-dark.svg"><img src="assets/project-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="47%"></picture></a>
 
-<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
+<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Scuttle](https://github.com/acltabontabon/scuttle) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
 
 </div>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Public GitHub contributions, repositories, stars and primary languages. Updated daily." width="100%">
-</picture>
-
-<br>
+<p align="center"><img src="assets/section-rule.svg" alt="" width="100%"></p>
 
 **Take them for a spin.** [My Homebrew tap →](https://github.com/acltabontabon/homebrew-tap)
 
 ```sh
 brew install --cask acltabontabon/tap/draft-canvas
 brew install --cask acltabontabon/tap/habi
+brew install --cask acltabontabon/tap/scuttle
 ```
 
 <sub>[First launch & updates](https://github.com/acltabontabon/homebrew-tap#readme) · Software & side quests. Fueled by noodles.</sub>

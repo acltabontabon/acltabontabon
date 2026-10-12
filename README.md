@@ -29,5 +29,5 @@ Less busywork. More time for things that matter.
 <p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
 <p align="center">
-  <sub><a href="https://acltabontabon.com/garage"><img src="assets/footer-garage.svg" alt="" width="14" height="14">&nbsp; Garage</a> &nbsp; | &nbsp; <a href="https://github.com/acltabontabon/homebrew-tap"><img src="assets/footer-tap.svg" alt="" width="14" height="14">&nbsp; Homebrew tap</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic"><img src="assets/footer-coffee.svg" alt="" width="14" height="14">&nbsp; Buy me a coffee</a></sub>
+  <sub><a href="https://acltabontabon.com/garage"><img src="assets/footer-garage.svg" alt="" width="14" height="14">&nbsp; Garage</a> &nbsp; &nbsp; · &nbsp; &nbsp; <a href="https://ko-fi.com/aclt_attic"><img src="assets/footer-coffee.svg" alt="" width="14" height="14">&nbsp; Buy me a coffee</a></sub>
 </p>

@@ -7,10 +7,13 @@
 
 ### Backend systems. Open-source tools.
 
-Mostly backend. Happiest working on **software architecture** with **Java, Spring Boot, AWS, and Kubernetes**.
+Mostly backend. Happiest thinking through software architecture.
 
-Lately, I’m using AI to build tools for my own problems and the ones we share.<br>
-Less busywork. More time for things that matter.
+<sub>Java &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; AWS &nbsp; · &nbsp; Kubernetes</sub>
+
+Lately, I’m using AI to build tools for my own problems and the ones we share.
+
+<sub><em>Less busywork. More time for things that matter.</em></sub>
 
 </div>
 

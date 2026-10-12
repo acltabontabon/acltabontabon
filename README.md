@@ -31,4 +31,3 @@ Less busywork. More time for things that matter.
 <p align="center">
   <sub><a href="https://acltabontabon.com/garage">Garage</a> &nbsp; | &nbsp; <a href="https://github.com/acltabontabon/homebrew-tap">Homebrew</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
 </p>
-

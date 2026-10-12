@@ -40,9 +40,8 @@ Building useful tools with AI. Occasionally, ridiculous games.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tinkering-dark.svg"><img src="assets/label-tinkering-light.svg" alt="Currently tinkering" width="220" height="24"></picture>
 
-<a href="https://github.com/acltabontabon/sev-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sev-title-dark.svg"><img src="assets/sev-title-light.svg" alt="SEV-1 — view the source" width="160" height="35"></picture></a>
-
-A dark comedy hack-and-slash through corporate hell.
+<a href="https://github.com/acltabontabon/sev-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sev-title-dark.svg"><img src="assets/sev-title-light.svg" alt="SEV-1 — view the source" width="160" height="27"></picture></a><br>
+A dark comedy indie hack-and-slash game in a fictional corporate world.
 
 </div>
 

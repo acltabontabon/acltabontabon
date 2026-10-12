@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="ACT — Backend systems. Open-source tools." width="100%">
+  <img src="assets/act-header.svg" alt="ACT — Backend systems. Open-source tools." width="100%">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
   Also building <a href="https://github.com/acltabontabon/vortex"><b>Vortex</b></a> for performance testing and <a href="https://github.com/acltabontabon/Katha"><b>Katha</b></a> for stories from your dev activity.
 </p>
 
-<a href="https://github.com/acltabontabon?tab=repositories"><img src="assets/github-stats.svg" alt="ACT GitHub stats: public contributions, repositories, stars and primary languages. Refreshed daily." width="100%"></a>
+<a href="https://github.com/acltabontabon?tab=repositories"><img src="assets/activity.svg" alt="ACT GitHub stats: public contributions, repositories, stars and primary languages. Refreshed daily." width="100%"></a>
 
 ### Install on macOS
 

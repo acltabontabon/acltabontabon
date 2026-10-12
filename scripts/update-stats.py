@@ -56,27 +56,23 @@ def collect():
 def render(data):
     esc = html.escape
     out = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">',
-        '<title id="title">ACT / In the workshop</title>',
+        '<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="216" viewBox="0 0 1280 216" role="img" aria-labelledby="title desc">',
+        '<title id="title">ACT — From the workshop</title>',
         f'<desc id="desc">{data["contributions"]:,} contributions in the last year, '
         f'{data["repositories"]} public repositories, {data["stars"]} stars on owned '
         f'original repositories. Public GitHub snapshot: {esc(data["date"])}.</desc>',
-        '<rect width="1280" height="280" rx="14" fill="#171816"/>',
+        '<rect width="1280" height="216" rx="12" fill="#171816"/>',
         '<g font-family="Arial, Helvetica, sans-serif">',
-        '<text x="40" y="38" fill="#c2ac82" font-family="Menlo, Consolas, monospace" font-size="14" letter-spacing="2">IN THE WORKSHOP / GITHUB</text>',
-        f'<text x="1240" y="38" text-anchor="end" fill="#b1b1a7" font-size="13">PUBLIC SNAPSHOT · {esc(data["date"])} · UPDATED DAILY</text>',
+        '<text x="40" y="33" fill="#c2ac82" font-family="Georgia, Times New Roman, serif" font-style="italic" font-size="19">From the workshop.</text>',
+        f'<text x="1240" y="33" text-anchor="end" fill="#909187" font-size="12">GitHub · {esc(data["date"])}</text>',
     ]
     for x, key, label in [
-        (40, "contributions", "contributions / past year"),
+        (40, "contributions", "contributions · past year"),
         (472, "repositories", "public repositories"),
-        (902, "stars", "stars / original repositories"),
+        (902, "stars", "stars · original repos"),
     ]:
-        out.append(f'<text x="{x}" y="116" fill="#ece9e1" font-size="57" letter-spacing="-2">{data[key]:,}</text>')
-        out.append(f'<text x="{x}" y="148" fill="#b1b1a7" font-size="18">{label}</text>')
-    out.extend([
-        '<path d="M420 69v86M850 69v86M40 177h1200" stroke="#363730"/>',
-        '<text x="40" y="206" fill="#b1b1a7" font-family="Menlo, Consolas, monospace" font-size="12" letter-spacing="1">PRIMARY LANGUAGES / ORIGINAL REPOSITORIES</text>',
-    ])
+        out.append(f'<text x="{x}" y="105" fill="#ece9e1" font-family="Georgia, Times New Roman, serif" font-size="64" letter-spacing="-2">{data[key]:,}</text>')
+        out.append(f'<text x="{x}" y="136" fill="#b1b1a7" font-size="18">{label}</text>')
     languages = list(data["languages"].items())
     parts = languages[:4]
     if len(languages) > 4:
@@ -86,12 +82,12 @@ def render(data):
     x = 40
     for (name, count), color in zip(parts, palette):
         width = 1200 * count / total
-        out.append(f'<rect x="{x:.2f}" y="222" width="{width:.2f}" height="6" fill="{color}"/>')
+        out.append(f'<rect x="{x:.2f}" y="166" width="{width:.2f}" height="3" fill="{color}"/>')
         x += width
     x = 40
     for (name, count), color in zip(parts, palette):
-        out.append(f'<circle cx="{x + 4}" cy="253" r="4" fill="{color}"/>')
-        out.append(f'<text x="{x + 16}" y="257" fill="#b1b1a7" font-size="14">{esc(name)} · {count}</text>')
+        out.append(f'<circle cx="{x + 4}" cy="195" r="3" fill="{color}"/>')
+        out.append(f'<text x="{x + 16}" y="199" fill="#b1b1a7" font-size="14">{esc(name)} · {count}</text>')
         x += 240
     out.append("</g></svg>\n")
     return "\n".join(out)
@@ -100,6 +96,6 @@ def render(data):
 if __name__ == "__main__":
     data = collect()
     svg = render(data)
-    (ROOT / "assets" / "github-stats.svg").write_text(svg)
+    (ROOT / "assets" / "activity.svg").write_text(svg)
     (ROOT / "assets" / "github-stats.json").write_text(json.dumps(data, indent=2) + "\n")
     print(f"Rendered public GitHub stats for {USER} ({data['date']}).")

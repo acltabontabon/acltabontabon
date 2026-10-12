@@ -49,12 +49,6 @@ A game about surviving another deployment.
 
 <sub>[Playtest](https://github.com/acltabontabon/sev-1/releases)</sub>
 
-<img src="assets/garage-row-rule.svg" alt="" width="40%">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-off-clock-dark.svg"><img src="assets/label-off-clock-light.svg" alt="Off the clock" width="220" height="24"></picture>
-
-When I'm not debugging software, I'm debugging my gameplay.
-
 </div>
 
 <p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+<title id="title">ACT / In the workshop</title>
+<desc id="desc">2,215 contributions in the last year, 28 public repositories, 12 stars on owned original repositories. Public GitHub snapshot: 2026-10-12.</desc>
+<rect width="1280" height="280" rx="14" fill="#171816"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="40" y="38" fill="#c2ac82" font-family="Menlo, Consolas, monospace" font-size="14" letter-spacing="2">IN THE WORKSHOP / GITHUB</text>
+<text x="1240" y="38" text-anchor="end" fill="#b1b1a7" font-size="13">PUBLIC SNAPSHOT · 2026-10-12 · UPDATED DAILY</text>
+<text x="40" y="116" fill="#ece9e1" font-size="57" letter-spacing="-2">2,215</text>
+<text x="40" y="148" fill="#b1b1a7" font-size="18">contributions / past year</text>
+<text x="472" y="116" fill="#ece9e1" font-size="57" letter-spacing="-2">28</text>
+<text x="472" y="148" fill="#b1b1a7" font-size="18">public repositories</text>
+<text x="902" y="116" fill="#ece9e1" font-size="57" letter-spacing="-2">12</text>
+<text x="902" y="148" fill="#b1b1a7" font-size="18">stars / original repositories</text>
+<path d="M420 69v86M850 69v86M40 177h1200" stroke="#363730"/>
+<text x="40" y="206" fill="#b1b1a7" font-family="Menlo, Consolas, monospace" font-size="12" letter-spacing="1">PRIMARY LANGUAGES / ORIGINAL REPOSITORIES</text>
+<rect x="40.00" y="222" width="573.91" height="6" fill="#c2ac82"/>
+<rect x="613.91" y="222" width="208.70" height="6" fill="#ece9e1"/>
+<rect x="822.61" y="222" width="104.35" height="6" fill="#989c8a"/>
+<rect x="926.96" y="222" width="104.35" height="6" fill="#777c70"/>
+<rect x="1031.30" y="222" width="208.70" height="6" fill="#454940"/>
+<circle cx="44" cy="253" r="4" fill="#c2ac82"/>
+<text x="56" y="257" fill="#b1b1a7" font-size="14">Java · 11</text>
+<circle cx="284" cy="253" r="4" fill="#ece9e1"/>
+<text x="296" y="257" fill="#b1b1a7" font-size="14">TypeScript · 4</text>
+<circle cx="524" cy="253" r="4" fill="#989c8a"/>
+<text x="536" y="257" fill="#b1b1a7" font-size="14">CSS · 2</text>
+<circle cx="764" cy="253" r="4" fill="#777c70"/>
+<text x="776" y="257" fill="#b1b1a7" font-size="14">Rust · 2</text>
+<circle cx="1004" cy="253" r="4" fill="#454940"/>
+<text x="1016" y="257" fill="#b1b1a7" font-size="14">Other · 4</text>
+</g></svg>

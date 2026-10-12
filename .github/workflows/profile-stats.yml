@@ -1,0 +1,40 @@
+name: Refresh ACT profile stats
+
+on:
+  push:
+    paths:
+      - 'scripts/update-stats.py'
+      - '.github/workflows/profile-stats.yml'
+  schedule:
+    - cron: '17 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: act-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Render public stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update-stats.py
+      - name: Commit updated card
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-stats.svg assets/github-stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh ACT public GitHub stats'
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

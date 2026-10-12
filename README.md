@@ -24,7 +24,7 @@ Less busywork. More time for things that matter.
 <img src="assets/project-rule.svg" alt="" width="2%">
 <a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="30%"></picture></a>
 
-<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
+<sub>[More from the Garage →](https://acltabontabon.com/garage)</sub>
 
 </div>
 

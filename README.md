@@ -24,22 +24,11 @@ Less busywork. More time for things that matter.
 <img src="assets/project-rule.svg" alt="" width="2%">
 <a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="30%"></picture></a>
 
-<sub>[More from the Garage →](https://acltabontabon.com/garage)</sub>
-
 </div>
 
 <p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
 <p align="center">
-  <sub><a href="https://github.com/acltabontabon/homebrew-tap">Homebrew</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
+  <sub><a href="https://acltabontabon.com/garage">Garage</a> &nbsp; | &nbsp; <a href="https://github.com/acltabontabon/homebrew-tap">Homebrew</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
 </p>
 
-```sh
-brew install --cask acltabontabon/tap/draft-canvas
-brew install --cask acltabontabon/tap/habi
-brew install --cask acltabontabon/tap/scuttle
-```
-
-<p align="center">
-  <sub>macOS &nbsp; · &nbsp; <a href="https://github.com/acltabontabon/homebrew-tap#readme">Install notes &amp; updates</a></sub>
-</p>

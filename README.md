@@ -1,25 +1,34 @@
-<h1 align="center">yo, i'm @acltabontabon 👋</h1>
+# Hi, I'm Cris 👋
 
-<p align="center">
-  <i>software developer • Java apologist • AWS + Kubernetes survivor</i>
-</p>
+**I build backend systems and open-source tools for developers.**
 
-<p align="center">
-  I build backend stuff, deploy it to the cloud, and pretend the "why is this pod crashing?" phase was part of the plan.
-</p>
+Java and Spring Boot for a living, with AWS and Kubernetes in the mix.
+On the side, I build tools that help developers explain software, work with AI coding agents, and test their services.
 
-<hr>
+[Website](https://acltabontabon.com) · [Projects](https://acltabontabon.com/garage) · [Blog](https://acltabontabon.com/blog) · [LinkedIn](https://linkedin.com/in/acltabontabon) · [Email](mailto:me@acltabontabon.com)
 
-- Java and Spring Boot for a living
-- services that talk to other services
-- AWS for the infrastructure drama
-- Kubernetes for the "this is fine" moments
-- debugging like a detective with 9 tabs open
+## Things I've built
 
-<hr>
+| Project | What it helps you do |
+| --- | --- |
+| [Draft Canvas](https://github.com/acltabontabon/draft-canvas) | Draw software architecture and walk others through how it works. Local-first, in your browser or on your desktop. |
+| [Habi](https://github.com/acltabontabon/habi) | Find AI agent skills that fit your repo, see why they fit, and preview changes before installing. |
+| [Vortex](https://github.com/acltabontabon/vortex) | Turn performance requirements into k6 tests with a clear pass/fail result. |
+| [Katha](https://github.com/acltabontabon/Katha) | Turn GitHub and GitLab activity into readable chapters, generated on-device with Ollama. |
 
-When I’m not fighting code, I’m usually:
-- falling into a Reddit rabbit hole
-- launching Steam "for a few minutes"
-- eating noodles
-- pretending I’m relaxing while thinking about a bug
+[Explore the Garage →](https://acltabontabon.com/garage)
+
+## Try my apps on macOS
+
+[My Homebrew tap](https://github.com/acltabontabon/homebrew-tap) makes Habi and Draft Canvas easy to install:
+
+```sh
+brew install --cask acltabontabon/tap/habi
+brew install --cask acltabontabon/tap/draft-canvas
+```
+
+See the [tap README](https://github.com/acltabontabon/homebrew-tap#readme) for first-launch guidance and updates.
+
+---
+
+Away from the keyboard: noodles, podcasts, Reddit rabbit holes, and Steam “for a few minutes.”

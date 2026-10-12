@@ -12,8 +12,6 @@ Mostly backend. Happiest with **Java, Spring Boot, AWS, and Kubernetes**.
 Lately, I’m using AI to build tools for my own problems and the ones we share.<br>
 Less busywork. More time for things that matter.
 
-<sub>Exploring Cloudflare, too.</sub>
-
 [Website](https://acltabontabon.com) · [Writing](https://acltabontabon.com/blog) · [LinkedIn](https://linkedin.com/in/acltabontabon) · [Say hello](mailto:me@acltabontabon.com)
 
 </div>

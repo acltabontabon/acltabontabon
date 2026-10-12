@@ -24,7 +24,7 @@ Java & Spring Boot for a living. Developer tools for the work around them.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity.svg" alt="Public GitHub contributions, repositories, stars and primary languages. Updated daily." width="100%">
+  <img src="assets/activity-light.svg" alt="Public GitHub contributions, repositories, stars and primary languages. Updated daily." width="100%">
 </picture>
 
 <br>

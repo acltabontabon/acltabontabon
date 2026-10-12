@@ -99,7 +99,7 @@ def render(data, dark=False):
 if __name__ == "__main__":
     data = collect()
     svg = render(data)
-    (ROOT / "assets" / "activity.svg").write_text(svg)
+    (ROOT / "assets" / "activity-light.svg").write_text(svg)
     (ROOT / "assets" / "activity-dark.svg").write_text(render(data, dark=True))
     (ROOT / "assets" / "github-stats.json").write_text(json.dumps(data, indent=2) + "\n")
     print(f"Rendered public GitHub stats for {USER} ({data['date']}).")

@@ -16,18 +16,21 @@ Less busywork. More time for things that matter.
 
 </div>
 
-<p align="center"><img src="assets/section-rule.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
 <div align="center">
 
-<a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-draft-dark.svg"><img src="assets/project-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="47%"></picture></a>
-<a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-habi-dark.svg"><img src="assets/project-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="47%"></picture></a>
+<a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-draft-dark.svg"><img src="assets/garage-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="30%"></picture></a>
+<img src="assets/project-rule.svg" alt="" width="2%">
+<a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-habi-dark.svg"><img src="assets/garage-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="30%"></picture></a>
+<img src="assets/project-rule.svg" alt="" width="2%">
+<a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="30%"></picture></a>
 
-<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Scuttle](https://github.com/acltabontabon/scuttle) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
+<sub>[Explore the Garage](https://acltabontabon.com/garage) &nbsp; / &nbsp; [Vortex](https://github.com/acltabontabon/vortex) &nbsp; / &nbsp; [Katha](https://github.com/acltabontabon/Katha)</sub>
 
 </div>
 
-<p align="center"><img src="assets/section-rule.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
 **Take them for a spin.** [My Homebrew tap →](https://github.com/acltabontabon/homebrew-tap)
 

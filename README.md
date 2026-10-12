@@ -42,12 +42,8 @@ Building useful tools with AI. Occasionally, ridiculous games.
 
 <a href="https://github.com/acltabontabon/sev-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sev-title-dark.svg"><img src="assets/sev-title-light.svg" alt="SEV-1 — view the source" width="160" height="35"></picture></a>
 
-<sub>Open-source indie game · in development</sub>
-
 Production incidents. Questionable decisions.<br>
 A game about surviving another deployment.
-
-<sub>[Playtest](https://github.com/acltabontabon/sev-1/releases)</sub>
 
 </div>
 

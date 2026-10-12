@@ -18,17 +18,17 @@ Using AI to turn everyday problems into useful tools.
 
 <div align="center">
 
-<a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-draft-dark.svg"><img src="assets/garage-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="30%"></picture></a>
-<img src="assets/project-rule.svg" alt="" width="2%">
-<a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-habi-dark.svg"><img src="assets/garage-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="30%"></picture></a>
-<img src="assets/project-rule.svg" alt="" width="2%">
-<a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="30%"></picture></a>
+<a href="https://acltabontabon.com/draft-canvas/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-draft-dark.svg"><img src="assets/garage-draft-light.svg" alt="Draft Canvas — Draw software. Explain how it works. Try it in your browser." width="240"></picture></a>
+<img src="assets/project-rule.svg" alt="" width="16">
+<a href="https://acltabontabon.com/habi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-habi-dark.svg"><img src="assets/garage-habi-light.svg" alt="Habi — Find the right skills for your coding agent. Explore Habi." width="240"></picture></a>
+<img src="assets/project-rule.svg" alt="" width="16">
+<a href="https://acltabontabon.com/scuttle/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-scuttle-dark.svg"><img src="assets/garage-scuttle-light.svg" alt="Scuttle — Find what’s out of place. Give it a home. Explore Scuttle." width="240"></picture></a>
 
 <img src="assets/garage-row-rule.svg" alt="" width="94%">
 
-<a href="https://github.com/acltabontabon/muni"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-muni-dark.svg"><img src="assets/garage-muni-light.svg" alt="Muni — Keep the thought. Bring it to the retro." width="30%"></picture></a>
-<img src="assets/project-rule.svg" alt="" width="2%">
-<a href="https://github.com/acltabontabon/vortex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-vortex-dark.svg"><img src="assets/garage-vortex-light.svg" alt="Vortex — Run real load tests. Get a clear verdict." width="30%"></picture></a>
+<a href="https://github.com/acltabontabon/muni"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-muni-dark.svg"><img src="assets/garage-muni-light.svg" alt="Muni — Keep the thought. Bring it to the retro." width="240"></picture></a>
+<img src="assets/project-rule.svg" alt="" width="16">
+<a href="https://github.com/acltabontabon/vortex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-vortex-dark.svg"><img src="assets/garage-vortex-light.svg" alt="Vortex — Run real load tests. Get a clear verdict." width="240"></picture></a>
 
 </div>
 

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Backend systems. Tools for builders.</title>
+  <desc id="desc">acltabontabon builds backend systems and open-source developer tools. An abstract diagram connects services, tools and ideas.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#131b27"/><stop offset="1" stop-color="#102d30"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="72" fill="#80d9cb" font-size="18" letter-spacing="3">ACLTABONTABON / SOFTWARE DEVELOPER</text>
+    <text x="60" y="151" fill="#f5f7fa" font-size="60" font-weight="700">Backend systems.</text>
+    <text x="60" y="222" fill="#80d9cb" font-size="60" font-weight="700">Tools for builders.</text>
+    <text x="64" y="291" fill="#c0cbd6" font-size="23">Java · Spring Boot · AWS · Kubernetes · Open source</text>
+  </g>
+  <g fill="none" stroke="#80d9cb" stroke-width="2">
+    <path d="M920 109H987Q1003 109 1003 125V168M1003 168V239Q1003 255 1019 255H1060M1003 168H1130" opacity=".55"/>
+    <rect x="822" y="69" width="98" height="80" rx="14" fill="#162c35"/>
+    <rect x="960" y="168" width="86" height="66" rx="12" fill="#162c35"/>
+    <rect x="1130" y="128" width="86" height="80" rx="14" fill="#162c35"/>
+    <rect x="1060" y="235" width="120" height="64" rx="12" fill="#162c35"/>
+    <path d="m859 96-12 13 12 13m24-26 12 13-12 13m-10-29-5 32"/>
+    <path d="M986 190h34m-34 11h24m-24 11h29"/>
+    <circle cx="1173" cy="168" r="17"/><path d="M1165 168h16m-8-8v16"/>
+    <path d="m1089 266 12 12 28-28"/>
+  </g>
+  <circle cx="1003" cy="151" r="5" fill="#e8b86f"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title desc">
+  <title id="title">Habi — Find the right skills for your coding agent.</title>
+  <desc id="desc">Three skill cards with checkmarks beside the Habi name.</desc>
+  <rect width="600" height="280" rx="14" fill="#241d19"/>
+  <g fill="#30271f" stroke="#e8b86f" stroke-width="1.5">
+    <rect x="394" y="63" width="162" height="46" rx="9"/>
+    <rect x="378" y="124" width="162" height="46" rx="9"/>
+    <rect x="394" y="185" width="162" height="46" rx="9"/>
+  </g>
+  <g fill="none" stroke="#e8b86f" stroke-width="2"><path d="m411 86 5 5 10-12m-31 68 5 5 10-12m1 68 5 5 10-12"/><path d="M441 86h92M425 147h92M441 208h92" opacity=".4"/></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="32" y="54" fill="#e8b86f" font-size="12" letter-spacing="2">AI AGENTS / SKILLS</text>
+    <text x="30" y="113" fill="#f5f7fa" font-size="36" font-weight="700">Habi</text>
+    <text x="32" y="157" fill="#ded4ca" font-size="23">Find the right skills</text>
+    <text x="32" y="190" fill="#ded4ca" font-size="23">for your coding agent.</text>
+    <text x="32" y="247" fill="#e8b86f" font-size="14">PREVIEW. INSTALL. SHARE. →</text>
+  </g>
+</svg>

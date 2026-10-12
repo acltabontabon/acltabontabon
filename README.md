@@ -1,34 +1,47 @@
-# Hi, I'm Cris 👋
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Backend systems. Tools for builders. Java, Spring Boot, AWS, Kubernetes and open source." width="100%">
+</p>
 
-**I build backend systems and open-source tools for developers.**
+<p align="center">
+  I build backend services for a living and open-source tools for the work around them.
+</p>
 
-Java and Spring Boot for a living, with AWS and Kubernetes in the mix.
-On the side, I build tools that help developers explain software, work with AI coding agents, and test their services.
+<p align="center">
+  <a href="https://acltabontabon.com"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://acltabontabon.com/garage"><b>All projects</b></a> &nbsp;·&nbsp;
+  <a href="https://acltabontabon.com/blog">Writing</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/acltabontabon">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:me@acltabontabon.com">Say hello</a>
+</p>
 
-[Website](https://acltabontabon.com) · [Projects](https://acltabontabon.com/garage) · [Blog](https://acltabontabon.com/blog) · [LinkedIn](https://linkedin.com/in/acltabontabon) · [Email](mailto:me@acltabontabon.com)
+<br>
 
-## Things I've built
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://acltabontabon.com/draft-canvas/"><img src="assets/draft-canvas.svg" alt="Draft Canvas: draw software and explain how it works. Local-first web and desktop app." width="100%"></a>
+      <p>Sketch systems, explore the details, and walk through the flow.</p>
+      <a href="https://acltabontabon.com/draft-canvas/editor/"><b>Try it →</b></a> &nbsp;·&nbsp; <a href="https://github.com/acltabontabon/draft-canvas">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://acltabontabon.com/habi/"><img src="assets/habi.svg" alt="Habi: find the right skills for your coding agent. Preview, install and share." width="100%"></a>
+      <p>See which skills fit your repo and review changes before installing.</p>
+      <a href="https://acltabontabon.com/habi/"><b>Explore →</b></a> &nbsp;·&nbsp; <a href="https://github.com/acltabontabon/habi">Source</a>
+    </td>
+  </tr>
+</table>
 
-| Project | What it helps you do |
-| --- | --- |
-| [Draft Canvas](https://github.com/acltabontabon/draft-canvas) | Draw software architecture and walk others through how it works. Local-first, in your browser or on your desktop. |
-| [Habi](https://github.com/acltabontabon/habi) | Find AI agent skills that fit your repo, see why they fit, and preview changes before installing. |
-| [Vortex](https://github.com/acltabontabon/vortex) | Turn performance requirements into k6 tests with a clear pass/fail result. |
-| [Katha](https://github.com/acltabontabon/Katha) | Turn GitHub and GitLab activity into readable chapters, generated on-device with Ollama. |
+<p align="center">
+  Also building <a href="https://github.com/acltabontabon/vortex"><b>Vortex</b></a> for performance testing and <a href="https://github.com/acltabontabon/Katha"><b>Katha</b></a> for stories from your dev activity.
+</p>
 
-[Explore the Garage →](https://acltabontabon.com/garage)
+### Install on macOS
 
-## Try my apps on macOS
-
-[My Homebrew tap](https://github.com/acltabontabon/homebrew-tap) makes Habi and Draft Canvas easy to install:
+Two apps. [One Homebrew tap.](https://github.com/acltabontabon/homebrew-tap)
 
 ```sh
-brew install --cask acltabontabon/tap/habi
 brew install --cask acltabontabon/tap/draft-canvas
+brew install --cask acltabontabon/tap/habi
 ```
 
-See the [tap README](https://github.com/acltabontabon/homebrew-tap#readme) for first-launch guidance and updates.
-
----
-
-Away from the keyboard: noodles, podcasts, Reddit rabbit holes, and Steam “for a few minutes.”
+<sub>[First launch & updates](https://github.com/acltabontabon/homebrew-tap#readme) · Fueled by noodles. Steam time estimates remain unreliable.</sub>

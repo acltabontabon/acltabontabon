@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="ACT — Think it through. Then act. Backend systems and open-source tools." width="100%">
+  <img src="assets/profile-banner.svg" alt="ACT — Backend systems. Open-source tools." width="100%">
 </p>
 
 <p align="center">

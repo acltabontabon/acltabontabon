@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-<title id="title">ACT — Think it through. Then act.</title><desc id="desc">Backend systems and open-source tools. Java, Spring Boot, AWS and Kubernetes.</desc>
-<rect width="1280" height="420" rx="14" fill="#171816"/>
-<path d="M56 100h1168M56 371h1168" stroke="#363730"/>
-<g transform="translate(48 20) scale(.62)"><g fill="none" stroke="#ece9e1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><circle cx="42" cy="58" r="23"/><path d="M65 35v46M119 41c-7-7-17-9-26-5-10 4-16 13-16 23s6 19 16 22c9 3 19 1 26-6M149 17v51q0 16 17 13M134 37h32"/></g><circle cx="188" cy="78" r="6" fill="#c2ac82"/></g>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="201" y="64" fill="#b1b1a7" font-size="17">Software &amp; side quests</text>
-<text x="1224" y="64" fill="#c2ac82" font-family="Menlo, Consolas, monospace" font-size="14" text-anchor="end" letter-spacing="2">ACT / ENGINEER &amp; MAKER</text>
-<text x="52" y="189" fill="#ece9e1" font-size="65" letter-spacing="-2">Think it through.</text>
-<text x="52" y="271" fill="#ece9e1" font-size="65" letter-spacing="-2">Then <tspan fill="#c2ac82" font-family="Georgia, Times New Roman, serif" font-style="italic">act.</tspan></text>
-<text x="56" y="328" fill="#b1b1a7" font-size="23">Backend systems. Open-source tools for developers.</text>
-<text x="56" y="398" fill="#b1b1a7" font-family="Menlo, Consolas, monospace" font-size="15">JAVA / SPRING BOOT / AWS / KUBERNETES</text>
-<text x="1224" y="398" fill="#c2ac82" font-family="Menlo, Consolas, monospace" font-size="15" text-anchor="end">THINK → BUILD → SHIP</text>
-</g>
-<g fill="none" stroke="#c2ac82"><circle cx="1050" cy="230" r="108" opacity=".10"/><circle cx="1050" cy="230" r="131" opacity=".08"/><path d="M876 230h40m268 0h40M1050 76v26m0 256v26" opacity=".25"/></g>
-<g transform="translate(906 153) scale(1.4)"><g fill="none" stroke="#ece9e1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><circle cx="42" cy="58" r="23"/><path d="M65 35v46M119 41c-7-7-17-9-26-5-10 4-16 13-16 23s6 19 16 22c9 3 19 1 26-6M149 17v51q0 16 17 13M134 37h32"/></g><circle cx="188" cy="78" r="6" fill="#c2ac82"/></g>
-<circle cx="1127" cy="96" r="3" fill="#c2ac82"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="164" viewBox="0 0 1280 164" role="img" aria-labelledby="title desc">
+<title id="title">ACT — Backend systems. Open-source tools.</title>
+<desc id="desc">A simple ACT wordmark in ivory with a warm gold full stop.</desc>
+<rect width="1280" height="164" rx="12" fill="#171816"/>
+<g transform="translate(42 35) scale(.85)"><g fill="none" stroke="#ece9e1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><circle cx="42" cy="58" r="23"/><path d="M65 35v46M119 41c-7-7-17-9-26-5-10 4-16 13-16 23s6 19 16 22c9 3 19 1 26-6M149 17v51q0 16 17 13M134 37h32"/></g><circle cx="188" cy="78" r="6" fill="#c2ac82"/></g>
+<path d="M268 54v56" stroke="#363730"/>
+<text x="316" y="94" fill="#cecbc3" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="-.5">Backend systems. Open-source tools.</text>
 </svg>

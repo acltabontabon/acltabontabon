@@ -38,21 +38,18 @@ Building useful tools with AI. Occasionally, ridiculous games.
 
 <div align="center">
 
-### Currently tinkering
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-tinkering-dark.svg"><img src="assets/label-tinkering-light.svg" alt="Currently tinkering" width="220" height="24"></picture>
 
-<img src="assets/experiment-gamepad.svg" alt="" width="20" height="20"> &nbsp; **[SEV-1](https://github.com/acltabontabon/sev-1)** &nbsp; <sub>indie game · open-source experiment</sub>
-
+<img src="assets/experiment-gamepad.svg" alt="" width="14" height="14"> &nbsp; **[SEV-1](https://github.com/acltabontabon/sev-1)** &nbsp; <sub>indie game · open-source experiment</sub><br>
 A game about production incidents, questionable decisions,<br>
-and surviving another deployment.
-
+and surviving another deployment.<br>
 <sub>[Playtest builds ↗](https://github.com/acltabontabon/sev-1/releases)</sub>
 
-<br>
+<img src="assets/garage-row-rule.svg" alt="" width="40%">
 
-### Off the clock
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-off-clock-dark.svg"><img src="assets/label-off-clock-light.svg" alt="Off the clock" width="220" height="24"></picture>
 
-When I'm not debugging software, I'm debugging my gameplay.
-
+When I'm not debugging software, I'm debugging my gameplay.<br>
 <sub>[Steam ↗](https://steamcommunity.com/id/acltabontabon/)</sub>
 
 </div>

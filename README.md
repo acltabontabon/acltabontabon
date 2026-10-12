@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/act-wordmark-light.svg">
-  <img src="assets/act-wordmark-dark.svg" alt="act. — a custom wordmark with a forward arrow in the t and a gold full stop" width="160" height="80">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/act-mark-light.svg">
+  <img src="assets/act-mark-dark.svg" alt="act. — a custom wordmark with a forward arrow in the t and a gold full stop" width="160" height="80">
 </picture>
 
 ### Backend systems. Open-source tools.

@@ -30,7 +30,9 @@ Less busywork. More time for things that matter.
 
 <p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
-**Take them for a spin.** [My Homebrew tap →](https://github.com/acltabontabon/homebrew-tap)
+<p align="center">
+  <sub><a href="https://github.com/acltabontabon/homebrew-tap">Homebrew</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
+</p>
 
 ```sh
 brew install --cask acltabontabon/tap/draft-canvas
@@ -38,4 +40,6 @@ brew install --cask acltabontabon/tap/habi
 brew install --cask acltabontabon/tap/scuttle
 ```
 
-<sub>[First launch & updates](https://github.com/acltabontabon/homebrew-tap#readme) · Software & side quests. Fueled by noodles.</sub>
+<p align="center">
+  <sub>macOS &nbsp; · &nbsp; <a href="https://github.com/acltabontabon/homebrew-tap#readme">Install notes &amp; updates</a></sub>
+</p>

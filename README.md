@@ -49,13 +49,12 @@ and surviving another deployment.<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-off-clock-dark.svg"><img src="assets/label-off-clock-light.svg" alt="Off the clock" width="220" height="24"></picture>
 
-When I'm not debugging software, I'm debugging my gameplay.<br>
-<a href="https://steamcommunity.com/id/acltabontabon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/steam-link-dark.svg"><img src="assets/steam-link-light.svg" alt="Steam profile" width="66" height="24"></picture></a>
+When I'm not debugging software, I'm debugging my gameplay.
 
 </div>
 
 <p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
 
 <p align="center">
-  <sub><a href="https://acltabontabon.com/garage">Garage</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
+  <sub><a href="https://acltabontabon.com/garage">Garage</a> &nbsp; | &nbsp; <a href="https://steamcommunity.com/id/acltabontabon/">Steam</a> &nbsp; | &nbsp; <a href="https://ko-fi.com/aclt_attic">Buy me a coffee</a></sub>
 </p>

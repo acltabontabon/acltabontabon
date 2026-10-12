@@ -26,11 +26,40 @@ Using AI to turn everyday problems into useful tools.
 
 <img src="assets/garage-row-rule.svg" alt="" width="94%">
 
-<a href="https://github.com/acltabontabon/cruce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-cruce-dark.svg"><img src="assets/garage-cruce-light.svg" alt="Cruce — Parallel agent work. One Git history." width="30%"></picture></a>
-<img src="assets/project-rule.svg" alt="" width="2%">
 <a href="https://github.com/acltabontabon/muni"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-muni-dark.svg"><img src="assets/garage-muni-light.svg" alt="Muni — Keep the thought. Bring it to the retro." width="30%"></picture></a>
 <img src="assets/project-rule.svg" alt="" width="2%">
 <a href="https://github.com/acltabontabon/vortex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/garage-vortex-dark.svg"><img src="assets/garage-vortex-light.svg" alt="Vortex — Run real load tests. Get a clear verdict." width="30%"></picture></a>
+
+</div>
+
+<p align="center"><img src="assets/section-divider.svg" alt="" width="100%"></p>
+
+<div align="center">
+
+### Currently tinkering
+
+<img src="assets/experiment-gamepad.svg" alt="" width="20" height="20"> &nbsp; **[SEV-1](https://github.com/acltabontabon/sev-1)** &nbsp; <sub>indie game · open-source experiment</sub>
+
+A game about production incidents, questionable decisions,<br>
+and surviving another deployment.
+
+<sub>[Playtest builds ↗](https://github.com/acltabontabon/sev-1/releases)</sub>
+
+**[Cruce](https://github.com/acltabontabon/cruce)** &nbsp; <sub>developer tooling · experimental</sub>
+
+Git-native coordination for parallel coding agents.<br>
+Many paths. One history. Humans decide what lands.
+
+<br>
+
+### Off the clock
+
+When I'm not debugging software, I'm debugging my gameplay.
+
+<!-- Steam profile: replace STEAM_PROFILE_URL with your actual profile URL,
+then uncomment the next line. Remove this comment if you don't want a Steam link.
+[Steam ↗](STEAM_PROFILE_URL)
+-->
 
 </div>
 
